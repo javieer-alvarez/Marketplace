@@ -24,15 +24,15 @@ This project focuses on CRUD operations, form handling, image uploads, and clean
 - Validate forms before submission
 - See loading and saving indicators for better UX
 
+<div align="center">
+<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-18 at 22 48 51" src="https://github.com/user-attachments/assets/73d4884d-dcd3-456c-8da0-1ab9556585dc" />
+</div>
+
 The app was built to practice:
 - State management with Provider
 - REST-based Firebase integration
 - Form validation patterns
 - Clean Flutter project structuring
-
-<div align="center">
-<img width="300" alt="Simulator Screenshot - iPhone 16 Pro - 2025-12-18 at 22 48 51" src="https://github.com/user-attachments/assets/73d4884d-dcd3-456c-8da0-1ab9556585dc" />
-</div>
 
 ---
 
