@@ -1,10 +1,9 @@
-# Marketplace 🛒 (Flutter)
-
 
 <div align="center">
 <img width="400" alt="Marketplace App Icon" src="https://github.com/user-attachments/assets/c86432f7-bfad-412f-b598-4adab6f86983" />
 </div>
 
+# Marketplace 🛒 (Flutter)
 
 A **Flutter marketplace application** for managing products, built with **Provider** for state management and backed by **Firebase Realtime Database** via REST API.
 
